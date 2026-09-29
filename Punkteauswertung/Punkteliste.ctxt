@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Sep 29 10:30:17 CEST 2026
+comment0.target=Punkteliste
+comment0.text=\r\n @author \r\n @version \r\n
+comment1.target=Punkteliste()
+comment2.params=pIndex pPunkte
+comment2.target=void setzePunkte(int, int)
+comment3.params=pGrenze
+comment3.target=int anzahlBestanden(int)
+comment4.target=int hoechstePunktzahl()
+numComments=5
